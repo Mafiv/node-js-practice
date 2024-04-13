@@ -1,0 +1,16 @@
+database connected
+server running
+express deprecated res.send(status, body): Use res.status(status).send(body) instead src\files\student.js:58:21
+node:_http_server:352
+    throw new ERR_HTTP_INVALID_STATUS_CODE(originalStatusCode);    
+          ^
+
+RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: password incorrect
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)    
+    at write_ (node:_http_outgoing:970:9)
+    at ServerResponse.end (node:_http_outgoing:1087:5)
+    at ServerResponse.send (E:\iv_code\nodejs\school app\node_modules\express\lib\response.js:232:10)
+    at E:\iv_code\nodejs\school app\src\files\student.js:58:21 {   
+  code: 'ERR_HTTP_INVALID_STATUS_CODE'
+}

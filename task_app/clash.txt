@@ -1,0 +1,182 @@
+     Description: jackgunner1010@gmail.com
+     Importance: Medium
+     Password: jaja1991@
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name jack
+     URL https://myaccount.google.com/?utm_source=sign_in_no_continue&pli=1
+     Comments: 
+     Category: 
+
+     Description: telegram
+     Importance: Medium
+     Password: maf8100@h
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name maf
+     URL 
+     Comments: 
+     Category: 
+
+     Description: facebook
+     Importance: Medium
+     Password: ma@852@maf
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name maf
+     URL https://www.facebook.com/
+     Comments: 
+     Category: 
+
+     Description: codecadamy
+     Importance: Medium
+     Password: besti1122
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name mirafamare4@gmail.com
+     URL https://www.codecademy.com/learn
+     Comments: 
+     Category: 
+
+     Description: wifi(routin)
+     Importance: Medium
+     Password: bumble22@k
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name maf
+     URL 
+     Comments: 
+     Category: 
+
+     Description: instagram
+     Importance: Medium
+     Password: rest1221inpis
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name mirafamare4@gmail.com
+     URL https://www.instagram.com/
+     Comments: 
+     Category: 
+
+     Description: mirafamare4@gmail.com
+     Importance: Medium
+     Password: sad136692@ter
+     Last modified: 27/11/2021
+     Expiry date: None
+     User name maf
+     URL https://myaccount.google.com/?utm_source=chrome-profile-chooser&pli=1
+     Comments: 
+
+
+     Category: 
+
+     Description: depot extention
+     Importance: Medium
+     Password: rainboo
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name maf
+     URL 
+     Comments: 
+     Category: 
+
+     Description: quera
+     Importance: Medium
+     Password: 
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name 
+     URL https://www.quora.com/
+     Comments: 
+     Category: 
+
+     Description: www.dropbox.com
+     Importance: Medium
+     Password: tillicollaps
+     Last modified: 22/09/2021
+     Expiry date: None
+     User name mirafamare4@gmail.com
+     URL https://www.dropbox.com/login
+     Comments: 
+     Category: 
+
+     Description: inov
+     Importance: Medium
+     Password: this is my369852 innovation369852
+     Last modified: 21/10/2021
+     Expiry date: None
+     User name nnov
+     URL 
+     Comments: 
+     Category: 
+
+     Description: z library
+     Importance: Medium
+     Password: hook258hook@12
+     Last modified: 15/11/2021
+     Expiry date: None
+     User name jack gunner
+     URL 
+     Comments: 
+     Category: 
+
+     Description: singlelogin.me
+     Importance: Medium
+     Password: hook258hook@12
+     Last modified: 15/11/2021
+     Expiry date: None
+     User name jackgunner1010@gmail.com
+     URL https://singlelogin.me/registration.php
+     Comments: 
+     Category: 
+
+     Description: azeb
+     Importance: Medium
+     Password: Azeb#123$
+     Last modified: 04/12/2021
+     Expiry date: None
+     User name 
+     URL 
+     Comments: 
+     Category: 
+
+     Description: my channel
+     Importance: Medium
+     Password: none
+     Last modified: 05/12/2021
+     Expiry date: None
+     User name https://www.youtube.com/channel/UC6275tdMK870Bei_3tcYu2Q
+     URL 
+     Comments: 
+     Category: 
+
+     Description: hack the box
+     Importance: Medium
+     Password: ha25hu52ha@#ck
+     Last modified: 06/12/2021
+     Expiry date: None
+     User name 
+     URL 
+     Comments: 
+     Category: 
+
+     Description: microsoft
+     Importance: Medium
+     Password: Hz#DQR8y)6Kbdjn$?*q%W
+     Last modified: 10/12/2021
+     Expiry date: None
+     User name me
+     URL 
+     Comments: 
+     Category: 
+
+     Description: git hub
+     Importance: Medium
+     Password: R>v44t$!EiN4Xb[>RXM]v*{8
+     Last modified: 08/01/2022
+     Expiry date: None
+     User name jack gunner
+     URL 
+     Comments: 
+     Category: 
+
